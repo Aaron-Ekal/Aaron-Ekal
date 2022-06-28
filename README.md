@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently ...a Junior Developer
 - 👯 I’m looking to collaborate on ...Web Development projects 
 - 💬 Ask me about ...Anything
